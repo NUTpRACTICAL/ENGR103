@@ -22,3 +22,5 @@ empty_power=np.empty(11)
 for x in range (len(power_type1)):
     if power_type1[x]=="Clean" and power1[x] > power1[x+1]:
         print("In year ", world1[x]," world Clean energy production was greater than world Coal energy production")
+    
+    
