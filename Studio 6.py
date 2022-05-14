@@ -72,4 +72,3 @@ print(worldPowerChange(2010,2021,"Wind"))
 
 
 
-
