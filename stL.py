@@ -32,4 +32,5 @@ def findSig(hour):
     else:
         print("Please Enter The Right Hour")
 
+        
 
