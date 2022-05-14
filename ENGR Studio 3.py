@@ -5,7 +5,7 @@ time_showering = input("how long is your shower in minutes: ")
 time_perweek_showerinhg= input ("how many times do you shower per week: ")
 gallon_showering= (2*(int(time_showering))*(int(time_perweek_showerinhg)))
 
-#Bathroom
+#Bathroo
 time_bathroom= input("how many times do you use the bathroom per day(washing hands, flushing toilet, brushing teeth: ")
 gallon_bathroom= (7*3*(int(time_bathroom)))
 
